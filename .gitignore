@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+node_modules/
+user/src/config/gcp.serviceaccount.json
+# misc
+.DS_Store
+.env
+.pdf
+.npmrc
+credentials.json
+package-lock.json
+
+# IDEs and editors
+/.idea
+
+# assets
+assets/
+!assets/.gitkeep
+!assets/fonts
+logs/
+# files
+files/
+!files/.gitkeep
+
+# tmp
+tmp/
+!tmp/.gitkeep
